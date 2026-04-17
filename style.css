@@ -33,7 +33,7 @@ nav{
     float: left;
     padding-left: 5%;
 }
-a img{
+.icons a{
     margin-left: 40px;
 
     width:30px;
@@ -41,6 +41,9 @@ a img{
     align-items: center;
     margin-top: 10px;
     display: flex;
+}
+.box{
+    background color:black;
 }
 
 h3{
@@ -53,6 +56,7 @@ th{
 }
 td li{
     margin-left: 15px;
+    list-style:none
     
 }
 
