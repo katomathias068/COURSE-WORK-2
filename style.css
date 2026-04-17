@@ -57,7 +57,7 @@ td li{
     list-style:none
     
 }
-footer{
+footer p{
     display:flex;
     justify-content:center;
     gap:15px;
